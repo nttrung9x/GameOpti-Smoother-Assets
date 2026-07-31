@@ -108,8 +108,8 @@ GameOpti\Icon\mtx\poe12\Misc\IridescentMonarchWings.png
 
 ```text
 Icon/
+├── skill_effects/
 ├── mtx/
-│   ├── poe1/
 │   └── poe12/
 └── ...
 ```
